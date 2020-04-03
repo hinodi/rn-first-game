@@ -1,0 +1,3 @@
+rootProject.name = 'hiodi_color_game'
+
+include ':app'
